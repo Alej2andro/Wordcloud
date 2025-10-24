@@ -105,8 +105,10 @@ El resultado final es un **reporte automático y portable** que consolida los ha
 ---
 
 ## ⚙️ Requisitos de Ejecución  
-<img width="732" height="620" alt="image" src="https://github.com/user-attachments/assets/10bf43d2-3ad7-4cb2-96d1-abf6426cc222" />
 
+🧩 Entorno de Desarrollo  
+💻 IDE: 🕷️ Spyder  
+🐍 Lenguaje: Python 3.x
 
 Instalar las dependencias necesarias (puedes usar un entorno virtual):  
 
