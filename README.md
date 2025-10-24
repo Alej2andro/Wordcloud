@@ -39,7 +39,7 @@ Esto permite comparar distintas configuraciones visuales sin alterar el contenid
 
 ## 🧾 Estructura de Archivos  
 
-📂 proyecto_wordcloud:
+📂 Proyecto wordcloud:
 
 ├── 🐍 script_wordcloud.py        → Código principal del análisis  
 ├── ☁️ nube_palabras.png          → Nube de palabras generada  
@@ -90,7 +90,7 @@ Representa los términos más frecuentes en los textos de Ciencia de Datos.
 ### 🩵 Gráfico de Frecuencia  
 Muestra las **10 palabras más mencionadas**, reflejando los conceptos dominantes en las fuentes analizadas.  
 
-### 🩵 Reporte PDF  
+### Reporte PDF  
 El resultado final es un **reporte automático y portable** que consolida los hallazgos visuales del análisis.  
 
 ---
