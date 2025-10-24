@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 23 19:29:58 2025
-
-@author: ASUS
-"""
-
 import requests  
 from bs4 import BeautifulSoup  
 import re
