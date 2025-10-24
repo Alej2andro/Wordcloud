@@ -99,6 +99,6 @@ Instalar las dependencias necesarias (puedes usar un entorno virtual):
 ```bash
 - pip install requests beautifulsoup4 matplotlib wordcloud nltk fpdf
 - import nltk
-nltk.download("stopwords")
+  nltk.download("stopwords")
 
 
