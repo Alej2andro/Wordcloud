@@ -106,15 +106,17 @@ El resultado final es un **reporte automático y portable** que consolida los ha
 
 ## ⚙️ Requisitos de Ejecución  
 
-🧩 Entorno de Desarrollo  
-💻 IDE: 🕷️ Spyder  
-🐍 Lenguaje: Python 3.x
+### 🧩 Entorno de Desarrollo  
+💻 **IDE:** 🕷️ Spyder  
+🐍 **Lenguaje:** Python 3.x  
 
-Instalar las dependencias necesarias (puedes usar un entorno virtual):  
+---
+
+### 📦 Instalación de Dependencias  
+
+Antes de ejecutar el script, asegúrate de instalar las librerías necesarias (puedes hacerlo dentro de un entorno virtual):  
 
 ```bash
 pip install requests beautifulsoup4 matplotlib wordcloud nltk fpdf
-import nltk
-nltk.download("stopwords")
 
 
