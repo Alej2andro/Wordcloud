@@ -69,7 +69,7 @@ El texto de cada sitio se obtiene con `BeautifulSoup` y se acumula para su poste
 
 ### 3️⃣ Carga y Visualización  
 - Se genera una **nube de palabras (WordCloud)** con `random_state=53` para garantizar **reproducibilidad visual**.  
-  - Si se cambia el valor de `random_state`, la forma de la nube cambiará, pero las palabras seguirán siendo las mismas.  
+- Si se cambia el valor de `random_state`, la forma de la nube cambiará, pero las palabras seguirán siendo las mismas.  
 - Se crea un **gráfico de barras** con las 10 palabras más frecuentes.  
 
 ---
