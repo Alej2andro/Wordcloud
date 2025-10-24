@@ -20,14 +20,16 @@ Aprender de forma práctica y **autónoma** cómo realizar un flujo de trabajo r
 - Exportación automática a PDF para reportes profesionales.  
 
 ---
-📁 proyecto_wordcloud/
-│
-├── script_wordcloud.py          # Código principal del análisis
-├── nube_palabras.png            # Nube de palabras generada
-├── grafico_frecuencia.png       # Gráfico de top 10 palabras
-├── reporte_visual.pdf           # Reporte final exportado
-└── README.md                    # Documentación del proyecto
----
+## 🧾 Estructura de Archivos  
+📂 proyecto_wordcloud/
+├── 🐍 script_wordcloud.py → Código principal del análisis
+├── ☁️ nube_palabras.png → Nube de palabras generada
+├── 📊 grafico_frecuencia.png → Gráfico de top 10 palabras
+├── 📄 reporte_visual.pdf → Reporte final exportado
+└── 🧠 README.md → Documentación del proyecto
+
+
+--
 
 ## 🧰 Tecnologías y Librerías Utilizadas  
 
