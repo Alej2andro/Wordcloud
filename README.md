@@ -39,7 +39,7 @@ Esto permite comparar distintas configuraciones visuales sin alterar el contenid
 
 ## 🧾 Estructura de Archivos  
 
-📂 proyecto_wordcloud/
+📂 proyecto_wordcloud:
 
 ├── 🐍 script_wordcloud.py        → Código principal del análisis  
 ├── ☁️ nube_palabras.png          → Nube de palabras generada  
