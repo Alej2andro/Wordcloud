@@ -30,7 +30,6 @@ Aprender de forma práctica y **autónoma** cómo realizar un flujo de trabajo r
 ├── 📄 reporte_visual.pdf         → Reporte final exportado  
 └── 🧠 README.md                  → Documentación del proyecto  
 
---
 
 ## 🧰 Tecnologías y Librerías Utilizadas  
 
