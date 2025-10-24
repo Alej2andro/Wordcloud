@@ -108,7 +108,7 @@ El resultado final es un **reporte automático y portable** que consolida los ha
 
 ### 🧩 Entorno de Desarrollo  
 💻 **IDE:** 🕷️ Spyder  
-🐍 **Lenguaje:** Python 3.x  
+🐍 **Lenguaje:** Python  
 
 ---
 
