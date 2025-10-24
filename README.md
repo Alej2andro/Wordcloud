@@ -84,10 +84,10 @@ Ambas visualizaciones se exportan en un **reporte visual (`reporte_visual.pdf`)*
 
 ## 📊 Ejemplo de Resultados  
 
-### 🩵 Nube de Palabras  
+### - Nube de Palabras  
 Representa los términos más frecuentes en los textos de Ciencia de Datos.  
 
-### 🩵 Gráfico de Frecuencia  
+### Gráfico de Frecuencia  
 Muestra las **10 palabras más mencionadas**, reflejando los conceptos dominantes en las fuentes analizadas.  
 
 ### Reporte PDF  
