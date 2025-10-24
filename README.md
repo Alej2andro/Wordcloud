@@ -22,7 +22,6 @@ Aprender de forma práctica y **autónoma** cómo realizar un flujo de trabajo r
 ---
 ## 🧾 Estructura de Archivos  
 
-```text
 📂 proyecto_wordcloud/
 ├── 🐍 script_wordcloud.py        → Código principal del análisis  
 ├── ☁️ nube_palabras.png          → Nube de palabras generada  
